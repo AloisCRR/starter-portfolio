@@ -42,8 +42,6 @@ Clone the project
 
 ## Tech Stack
 
-## Tech Stack
-
 | Name                                     | Description                                          |
 | ---------------------------------------- | ---------------------------------------------------- |
 | [GastbyJS](https://www.gatsbyjs.com/)    | React-based, GraphQL powered, static site generator. |
